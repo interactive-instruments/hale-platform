@@ -584,7 +584,7 @@
         },
         "de.interactive_instruments.xtraserver-config-util": {
             "1.0.6": {
-                "i20181214": "5uLUTA"
+                "i20181217": "5uLUTA"
             },
             "1.0.0": {
                 "i20180411": "84btpw",
@@ -2307,6 +2307,9 @@
             }
         },
         "eu.esdihumboldt.hale.platform": {
+            "3.5.0": {
+                "i20181217": "YgT5tw"
+            },
             "3.0.0": {
                 "i20150705": "XVpSSA",
                 "i20150727": "KJJ5hQ",
@@ -2385,6 +2388,9 @@
             }
         },
         "eu.esdihumboldt.hale.platform.resources": {
+            "3.5.0": {
+                "i20181217": "hrSb8A"
+            },
             "3.0.0": {
                 "i20150705": "aECbxg",
                 "i20150511": "xD6c8w",
@@ -2410,6 +2416,7 @@
         "eu.esdihumboldt.hale.platform.wicket-bootstrap": {
             "0.8.4": {
                 "i20170105": "pqq0A",
+                "i20181217": "IyGpvg",
                 "i20150402": "Vh5Yg",
                 "i20150413": "Lje5rg",
                 "i20170316": "Enqq1w",
@@ -2494,6 +2501,9 @@
             }
         },
         "platform.shared.postgis": {
+            "3.5.0": {
+                "i20181217": "5pQZCg"
+            },
             "3.0.0": {
                 "i20150402": "444b4A",
                 "i20150413": "468b4g"
@@ -2558,7 +2568,7 @@
         },
         "platform.shared.xs": {
             "1.0.6": {
-                "i20181214": "7D08dQ"
+                "i20181217": "7RU8eA"
             },
             "1.0.0": {
                 "i20180411": "4x08YQ",
@@ -2575,6 +2585,9 @@
             }
         },
         "eu.esdihumboldt.hale.server.webjars": {
+            "3.5.0": {
+                "i20181217": "eyXANA"
+            },
             "3.0.0": {
                 "i20150402": "cGe5KA",
                 "i20150413": "cbvALw"
