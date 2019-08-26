@@ -583,6 +583,9 @@
             }
         },
         "de.interactive_instruments.xtraserver-config-util": {
+            "1.0.6": {
+                "i20181214": "5uLUTA"
+            },
             "1.0.0": {
                 "i20180411": "84btpw",
                 "i20180727": "OSbNhQ"
@@ -1925,11 +1928,11 @@
             }
         },
         "org.postgresql.jdbc42": {
-            "42.2.5": {
-                "i20181015": "Fhst0Q"
-            },
             "42.2.4": {
                 "i20180727": "oQQoeg"
+            },
+            "42.2.5": {
+                "i20181015": "Fhst0Q"
             }
         },
         "org.quartz-scheduler.quartz": {
@@ -2342,6 +2345,7 @@
             "3.4.0": {
                 "i20181015": "ZRb5vQ",
                 "i20180411": "a1BdCg",
+                "i20181214": "DEH5tQ",
                 "i20180424": "OAyIaA",
                 "i20180427": "XVSCsA",
                 "i20180329": "ucETPg",
@@ -2553,6 +2557,9 @@
             }
         },
         "platform.shared.xs": {
+            "1.0.6": {
+                "i20181214": "7D08dQ"
+            },
             "1.0.0": {
                 "i20180411": "4x08YQ",
                 "i20180727": "7Jk8dw"
